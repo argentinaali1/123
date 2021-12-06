@@ -1,4 +1,4 @@
-name,percents,radius,y, x
+name,percents,radius,y, len
 Housing,5%,3,3, 5
 Education,9%,4,3, 10
 Health,44%,22,3, 15
